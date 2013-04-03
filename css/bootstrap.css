@@ -6200,6 +6200,12 @@ body {
   color: #444;
 }
 
+@media (min-width: 980px) {
+	body#top{
+		padding-top:100px;
+	}
+}
+
 hr {
   border-bottom: none;
 }
