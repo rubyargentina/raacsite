@@ -232,13 +232,13 @@ body {
 }
 
 a {
-  color: #e8d069;
+  color: #00bce1;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #e8d069;
+  color: #009cc1;
   text-decoration: underline;
 }
 
@@ -6197,7 +6197,7 @@ blockquote small {
 body {
   background-image: url('../images/soft_wallpaper.png');
   background-repeat: repeat;
-  color: black;
+  color: #444;
 }
 
 hr {
